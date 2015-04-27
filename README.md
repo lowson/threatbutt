@@ -1,5 +1,4 @@
 # threatbutt
-# threatbutt
 
 ![ThreatButt](http://threatbutt.com/threatbutt.png)
 
