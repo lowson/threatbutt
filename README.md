@@ -26,4 +26,4 @@ $ ./threatbutt.sh /"IS THE INTERNET SAFE?"
 
 [Checking system for security answers...] /
 
-[Theatbutt Response: Outlook not so good ]
+[Threatbutt Response: Outlook not so good ]
