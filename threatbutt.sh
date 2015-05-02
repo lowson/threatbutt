@@ -48,4 +48,4 @@ sleep 1
 echo "[Welcome to the ThreatButt Synergy Global Defense platform]"  
 sleep 1
 spin "Checking system for security answers..."
-echo "[Theatbutt Response: ${answer[RANDOM%${#answer[@]}]}" $']'
+echo "[Threatbutt Response: ${answer[RANDOM%${#answer[@]}]}" $']'
